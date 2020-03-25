@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MVP_PATTERN.iml" filepath="$PROJECT_DIR$/MVP_PATTERN.iml" group="MVP_PATTERN" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="MVP_PATTERN/app" />
+    </modules>
+  </component>
+</project>
